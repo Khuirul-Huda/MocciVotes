@@ -1,0 +1,14 @@
+name: MocciVotes
+main: id.my.khuirulhuda.moccivotes.Main
+version: 1.5-SNAPSHOT
+website: https://khuirul-huda.github.io/MocciVotes
+description: Simple plugin to receive votes from minecraft-mp
+author: Khuirul-Huda
+load: POSTWORLD
+
+commands:
+    mvote:
+        description: Reload the plugin (console only)
+        usage: /mvote
+       
+        
