@@ -1,6 +1,6 @@
 package id.my.khuirulhuda.moccivotes.commands;
 
-import id my.khuirulhuda.moccivotes.Main;
+import id.my.khuirulhuda.moccivotes.Main;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
